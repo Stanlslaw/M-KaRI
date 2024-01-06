@@ -1,0 +1,6 @@
+C:\Users\stass\Desktop\МСХОАД\лабы\lab10\CLRObjects\CLRObjects\bin\Debug\CLRObjects.dacpac
+C:\Users\stass\Desktop\МСХОАД\лабы\lab10\CLRObjects\CLRObjects\bin\Debug\CLRObjects.dll
+C:\Users\stass\Desktop\МСХОАД\лабы\lab10\CLRObjects\CLRObjects\bin\Debug\CLRObjects.pdb
+C:\Users\stass\Desktop\МСХОАД\лабы\lab10\CLRObjects\CLRObjects\obj\Debug\CLRObjects.sqlproj.AssemblyReference.cache
+C:\Users\stass\Desktop\МСХОАД\лабы\lab10\CLRObjects\CLRObjects\obj\Debug\CLRObjects.dll
+C:\Users\stass\Desktop\МСХОАД\лабы\lab10\CLRObjects\CLRObjects\obj\Debug\CLRObjects.pdb
